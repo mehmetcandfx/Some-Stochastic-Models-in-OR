@@ -37,7 +37,6 @@
 <h3 align="center">Some Stochastic Models in OR</h3>
 
   <p align="center">
-    <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Inflation%20in%20a%20Nutshell.pdf"  target="_blank"><strong>Explore the Report! »</strong></a>
     <br />
     <br />
     <i>Middle East Technical University, BSc Industrial Engineering<i>
